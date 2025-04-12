@@ -1,0 +1,19 @@
+# Ignore compiled files
+*.exe
+*.out
+*.obj
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system and user files
+AppData/
+*.log
+*.tmp
+*.bak
+
+# Ignore extension files
+*.cson
+*.less
+*.coffee
+
