@@ -17,3 +17,10 @@ AppData/
 *.less
 *.coffee
 
+# Ignore Windows-specific user data and AppData
+AppData/
+*.exe
+
+# Ignore node-related files if present
+node_modules/
+package-lock.json
