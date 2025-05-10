@@ -13,6 +13,7 @@ int main() {
   scanf("%d" , &num2);
 
 
+
   if(num1 > num2) {
     printf("Greater number is %d\n" , num1);
   
