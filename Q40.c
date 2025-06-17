@@ -1,0 +1,2 @@
+/*Write a program in C to accept two numbers and find the sum of the number demonstrating use
+of external variables.*/
