@@ -131,8 +131,8 @@ writing a list of numbers and its square into the file.
 65. Write a few numbers in the file created earlier. Reopen it in Read mode, write odd numbers in
 one file and even number in another file (use the getw and putw functions).
 66. Write programs to demonstrate the use of getc(), fgetc() and ungetc().
-67. Write programs to demonstrate the use of String I/O, Formatted I/O and End of file eof() and
-feof(). 
+67. Write programs to demonstrate the use of String I/O, Formatted I/O and End of file eogcf() and
+feof().
 
 
 
